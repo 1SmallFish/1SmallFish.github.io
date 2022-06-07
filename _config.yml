@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 小池塘
+subtitle: '问渠那得清如许'
 description: ''
 keywords:
 author: Liu Xinhui
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Free2mind
+theme: one-paper
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
